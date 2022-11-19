@@ -15,15 +15,12 @@ I know this is a terrible README, forgive me.
 
 [MTR PIDS Simulator](https://github.com/HKTSS/mtr-pids)
 
-### Envisioned Project
-**LXBot v3, another another another typical Discord Bot written in Discord.js**
-
-**OpenBVE Discord RPC, a Discord RPC for the train simulator [OpenBVE](https://github.com/leezer3/OpenBVE)**
+**[OpenBVE Discord RPC](https://github.com/Kenny-Hui/obDRPC), a Discord RPC for the train simulator [OpenBVE](https://github.com/leezer3/OpenBVE)**
 
 ## Contact
 Discord: **LX86#2271** (Preferred)
 
-Twitter: **@LX860**
+Mastodon: **@LX862@wetdry.world**
 
 I am quite active on both social media, so in the case you still haven't got any reply back within a few days:
 - I am not interested in whatever you contacted me for. 
