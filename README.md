@@ -1,6 +1,6 @@
 # Hi there
 ## About me
-I am Kenny Hui (More commonly known as LX86)
+I am Kenny Hui (Better known as LX86)
 
 Very average guy who likes to code stuff based on my interest. 
 
@@ -20,7 +20,7 @@ I know this is a terrible README, forgive me.
 ## Contact
 Discord: **LX86#2271** (Preferred)
 
-Mastodon: **@LX862@wetdry.world**
+Mastodon: [**@LX862@wetdry.world**](https://wetdry.world/@LX862)
 
 I am quite active on both social media, so in the case you still haven't got any reply back within a few days:
 - I am not interested in whatever you contacted me for. 
