@@ -8,7 +8,7 @@ Mainly coding in Java or Javascript, but occasionally there will be like C# or w
 
 I know this is a terrible README, forgive me.
 
-## My Project
+## Primary Projects
 [BetterTellraw, a Fabric Mod that took less time to create than continue using /tellraw](https://github.com/Kenny-Hui/BetterTellraw)
 
 [DCLink, a half baked Fabric <-> Discord Mod](https://github.com/Kenny-Hui/DCLink)
@@ -20,20 +20,19 @@ These projects are less actively worked on / more or less considered "done" (Doe
 
 [Sticker Lab, redrawing stickers seen in public places](https://lx862.com/sticker-lab)
 
-[sudo-pwd, a userscript that use password instead of mobile by default, when GitHub ask you to enter sudo mode](https://github.com/Kenny-Hui/sudo-pwd)
+[Splashfox](https://github.com/Kenny-Hui/SplashFox)
 
 [MTR LRT PIDS Simulator, replica of the new Hong Kong Light Rail PIDS](https://github.com/HKTSS/nlrt-pids)
 
 [MTR PIDS Simulator, replica of the Railway Vision PIDS seen in MTR](https://github.com/HKTSS/mtr-pids)
 
-## Contact
-Discord: **LX86#2271** (Preferred)
-
-Mastodon: [**@LX862@wetdry.world**](https://wetdry.world/@LX862)
-
-Email: lx86@lx862.com
-
-Blog: https://blog.lx862.com
+## Find me on
+- Revolt: **@LX86**
+- Fediverse:
+- - [**Mastodon**](https://wetdry.world/@LX862)
+- - [**Calckey**](https://stop.voring.me/@lx862)
+- Email: lx86@lx862.com
+- Blog: https://blog.lx862.com
 
 I am quite active on all the above contact method, so in the case you still haven't got any reply back within a few days:
 - I am not interested in whatever you contacted me for. 
