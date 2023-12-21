@@ -1,58 +1,26 @@
-# Hi there
-## About me
-I am Kenny Hui (Please call me with my alias LX/LX86 instead).
+![LX86 is a software nerd, is wandering around the internet, and is silly. LX86 likes Minecraft Modding, Public Signage, Trains and Little things around the world.](https://github.com/Kenny-Hui/Kenny-Hui/assets/28094366/695feb8a-280e-4ba6-a08b-fad9326d1447)
+
+# Hi there!
+[![Website](https://img.shields.io/badge/Website-lx862.com-gray?style=flat-square&labelColor=blue)](https://lx862.com)
+[![Mastodon](https://img.shields.io/badge/mastodon-lx862@wetdry.world-gray?style=flat-square&labelColor=5C5DE8)](https://wetdry.world/@LX862)
+[![Firefish](https://img.shields.io/badge/Firefish-lx862@lethallava.land-gray?style=flat-square&labelColor=FF6865)](https://lethallava.land/@LX862)
+![Revolt](https://img.shields.io/badge/Revolt-LX86%233250-gray?style=flat-square&labelColor=FE4454)
+![Email](https://img.shields.io/badge/Email-lx86%40lx862.com-gray?style=flat-square&labelColor=purple)
+
+I am Kenny Hui (Better known as **LX86/LX862**).  
+Knows a little bit about things, but not specialized at any of them >.<  
 I find problem, and I create more of it :D
 
-- Manages (And occasionally break) modded Minecraft server in [The District of Joban](https://github.com/DistrictOfJoban).  
-- Sometimes work on Train Simulation content in [Hong Kong Transport Simulation Studio](https://github.com/HKTSS).  
 
+
+## Some projects
+*(as in those that I kinda liked how it turned out)*
+- [SplashFox](https://github.com/Kenny-Hui/SplashFox) - A Minecraft mod that adds a bouncy blobfox to your loading screen.  
+- [Joban Client Mod](https://github.com/DistrictOfJoban/JCM-Rewrite) - A Minecraft mod/addon for the [Minecraft Transit Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) mod that adds various decoration blocks.
+- [obDRPC](https://github.com/Kenny-Hui/obDRPC) - Adds Discord Rich Presence support to the open source train simulator [OpenBVE](https://github.com/leezer3/OpenBVE).
+- [Hong Kong Light Rail Passenger Information Display Simulator](https://github.com/HKTSS/nlrt-pids) - A recreation of the vertical next-train display installed in Hong Kong Light Rail Stops, on the web.
+
+## Stats
 <img alt="LX86's GitHub Stats" src="https://github-readme-stats-five-nu-78.vercel.app/api?username=kenny-hui&show_icons=true&theme=transparent">  
 <img alt="LX86's Top Language" src="https://github-readme-stats-five-nu-78.vercel.app/api/top-langs/?username=kenny-hui&layout=compact">
-
-## Projects
-### OpenBVE
-*OpenBVE is an open-source train simulator that I played around with for a few years.  
-Nowadays I would try to get some small fixes to upstream, though I also had made some content about it.*
-
-Here are some of my OpenBVE projects:
-- [Light Rail Vehicle Phase IV](https://github.com/HKTSS/LRV-P4)
-- [OpenBVE Discord RPC](https://github.com/Kenny-Hui/obDRPC), an "Input Device Plugin" that adds Discord Rich Presence for OpenBVE, including live train statuses.
-
-### Minecraft
-*Have I told you 3 billion devices run Java?*
-- [BetterTellraw, a Fabric Mod that took less time to create than continue using /tellraw](https://github.com/Kenny-Hui/BetterTellraw)
-- [Splashfox](https://github.com/Kenny-Hui/SplashFox)
-- [DCLink, a (literally) half baked Fabric <-> Discord Mod](https://github.com/Kenny-Hui/DCLink)
-- [RecipeCooldown, a Fabric Mod that fixes some um idk Minecraft packet spam](https://github.com/Kenny-Hui/RecipeCooldown)
-- [TakeASeat, A Server-Side Fabric mod that allows you to sit on blocks??](https://github.com/Kenny-Hui/TakeASeat)
-
-### Minecraft (Minecraft Transit Railway)
-*The [Minecraft Transit Railway Mod](https://github.com/jonafanho/Minecraft-Transit-Railway) is a Forge/Fabric-compatible mod that adds automated metro in Minecraft.  
-Overtime I've developed several mod that modifies/add content on top of the MTR Mod, and while they aren't a *large* amount, it's probably better to open a new section anyway just in case.*
-
-- [Logregator](https://github.com/DistrictOfJoban/Logregator) - Send webhook messages to Discord (And hopefully revolt in the future) regarding in-game events. Optionally supports logging changes in MTR Mod data.
-- [TransitManager](https://github.com/DistrictOfJoban/TransitManager) - Add commands that allows you to have more control over indiviual train.
-- [MTR-OTP](https://github.com/DistrictOfJoban/MTR-OTP) - An experimental mod that uses frustum culling to skip rendering trains to achieve better fps (Pretty experimental and unreliable, long term solution is needed for the main mod)
-
-### Other projects
-*Random stuff I make, like literally*
-- [Sticker Lab, redrawing stickers seen in public places](https://lx862.com/sticker-lab)
-- [MTR Light Rail PIDS Simulator, replica of the new Hong Kong Light Rail PIDS](https://github.com/HKTSS/nlrt-pids)
-- [MTR PIDS Simulator v1, replica of the Railway Vision PIDS seen in MTR](https://github.com/HKTSS/mtr-pids)
-- [sudo-pwd, userscript that make GitHub sudo mode to always ask for password instead of GitHub mobile](https://github.com/Kenny-Hui/sudo-pwd)
-- [krunner-teleprefix, Telephone Prefix lookup for KDE KRunner](https://github.com/Kenny-Hui/krunner-teleprefix)
-
-## Contacts
-- Discord: *only if we are close*
-- Revolt: **LX86#3250**
-- Social:
-- - [**Mastodon (Main)**](https://wetdry.world/@LX862)
-- - [**Firefish**](https://lethallava.land/@lx862)
-- Personal Website: https://lx862.com
-- Email: lx86@lx862.com
-- Blog: https://blog.lx862.com
-
-In the case you are unable to contact me within a week or so via the above method:
-- I am not interested in whatever you contacted me for. 
-- Touching all the grass across the entire earth. 
-- Trying to make myself disappear off the internet
+<sup><i>^ I don't know how this happens, I totally write Java all day long</i></sup>
