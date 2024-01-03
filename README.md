@@ -1,4 +1,4 @@
-![LX86 is a software nerd, is wandering around the internet, and is silly. LX86 likes Minecraft Modding, Public Signage, Trains and Little things around the world.](https://github.com/Kenny-Hui/Kenny-Hui/assets/28094366/695feb8a-280e-4ba6-a08b-fad9326d1447)
+![LX86 is a software nerd, is wandering around the internet, and is silly. LX86 likes Minecraft Modding, Public Signage, Trains and Little things around the world.](https://github.com/Kenny-Hui/Kenny-Hui/assets/28094366/7a5ee2f7-2630-4759-9ea2-d0727cb7882f)
 
 # Hi there!
 [![Website](https://img.shields.io/badge/Website-lx862.com-gray?style=flat-square&labelColor=blue)](https://lx862.com)
