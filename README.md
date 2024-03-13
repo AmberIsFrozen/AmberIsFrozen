@@ -2,8 +2,8 @@
 
 # Hi there!
 [![Website](https://img.shields.io/badge/Website-lx862.com-gray?style=flat-square&labelColor=blue)](https://lx862.com)
-[![Mastodon](https://img.shields.io/badge/mastodon-lx862@wetdry.world-gray?style=flat-square&labelColor=5C5DE8)](https://wetdry.world/@LX862)
-[![Firefish](https://img.shields.io/badge/Firefish-lx862@lethallava.land-gray?style=flat-square&labelColor=FF6865)](https://lethallava.land/@LX862)
+[![Mastodon](https://img.shields.io/badge/Primary_Social-lx862@wetdry.world-gray?style=flat-square&labelColor=5C5DE8)](https://wetdry.world/@LX862)
+[![Firefish](https://img.shields.io/badge/Alt_Social-lx862@lethallava.land-gray?style=flat-square&labelColor=FF6865)](https://lethallava.land/@LX862)
 ![Revolt](https://img.shields.io/badge/Revolt-LX86%233250-gray?style=flat-square&labelColor=FE4454)
 ![Email](https://img.shields.io/badge/Email-lx86%40lx862.com-gray?style=flat-square&labelColor=purple)
 
