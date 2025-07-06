@@ -14,12 +14,12 @@ I find problem, and I create more of it :D
 
 ## Some projects
 *(as in those that I kinda liked how it turned out)*
-- [SplashFox](https://github.com/Kenny-Hui/SplashFox) - A Minecraft mod that adds a bouncy blobfox to your loading screen.  
+- [SplashFox](https://github.com/AmberIsFrozen/SplashFox) - A Minecraft mod that adds a bouncy blobfox to your loading screen.  
 - [Joban Client Mod](https://github.com/DistrictOfJoban/JCM-Rewrite) - A Minecraft mod/addon for the [Minecraft Transit Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) mod that adds various decoration blocks.
-- [obDRPC](https://github.com/Kenny-Hui/obDRPC) - Adds Discord Rich Presence support to the open source train simulator [OpenBVE](https://github.com/leezer3/OpenBVE).
+- [obDRPC](https://github.com/AmberIsFrozen/obDRPC) - Adds Discord Rich Presence support to the open source train simulator [OpenBVE](https://github.com/leezer3/OpenBVE).
 - [Hong Kong Light Rail Passenger Information Display Simulator](https://github.com/HKTSS/nlrt-pids) - A recreation of the vertical next-train display installed in Hong Kong Light Rail Stops, on the web.
 
 ## Stats
-<img alt="AmberFrost's GitHub Stats" src="https://github-readme-stats-five-nu-78.vercel.app/api?username=kenny-hui&show_icons=true&theme=transparent">  
-<img alt="AmberFrost's Top Language" src="https://github-readme-stats-five-nu-78.vercel.app/api/top-langs/?username=kenny-hui&layout=compact">
+<img alt="AmberFrost's GitHub Stats" src="https://github-readme-stats-five-nu-78.vercel.app/api?username=amberisfrozen&show_icons=true&theme=transparent">  
+<img alt="AmberFrost's Top Language" src="https://github-readme-stats-five-nu-78.vercel.app/api/top-langs/?username=amberisfrozen&layout=compact">
 <sup><i>^ I don't know how this happens, I totally write Java all day long</i></sup>
