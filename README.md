@@ -20,6 +20,6 @@ I find problem, and I create more of it :D
 - [Hong Kong Light Rail Passenger Information Display Simulator](https://github.com/HKTSS/nlrt-pids) - A recreation of the vertical next-train display installed in Hong Kong Light Rail Stops, on the web.
 
 ## Stats
-<img alt="AmberFrost's GitHub Stats" src="https://github-readme-stats-five-nu-78.vercel.app/api?username=amberisfrozen&show_icons=true&theme=transparent">  
-<img alt="AmberFrost's Top Language" src="https://github-readme-stats-five-nu-78.vercel.app/api/top-langs/?username=amberisfrozen&layout=compact">
+<img alt="AmberFrost's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amberisfrozen&show_icons=true&theme=transparent">  
+<img alt="AmberFrost's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberisfrozen&layout=compact">
 <sup><i>^ I don't know how this happens, I totally write Java all day long</i></sup>
